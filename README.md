@@ -1,8 +1,5 @@
-<div id="top"></div>
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
-
   <h3 align="center">MoneyTransfers</h3>
 
   <p align="center">
@@ -72,6 +69,14 @@
 
 ![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg=250x)
 
+
+![test image size](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg){:height="100px" width="400px"}
+
+<img
+  src="https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
  b. После запуска программы, в консоли появятся прочтенные данные:
  c.	При вводе расчетного счета покажется полная информация:
