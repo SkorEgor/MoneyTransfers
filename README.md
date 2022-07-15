@@ -47,18 +47,25 @@
 <br />
 
 ## Демонстрация
-1.	Вместе с программой должен лежать файл “ ReadData.txt”
- a. Данные в формате:
+1. Вместе с программой должен лежать файл “ ReadData.txt”
+Данные в формате:
 «Расчетный счет плательщика» «Расчетный счет получателя» «Перечисляемая сумма в рублях»
-
 <div align="center">
 
 ![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg)
 </div>
 
- b. После запуска программы, в консоли появятся прочтенные данные:
- c. При вводе расчетного счета покажется полная информация:
- d. При неверном счете, сообщение об ошибке:
+ 2. После запуска программы, в консоли появятся прочтенные данные
+<div align="center">
+
+![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleStartProgramm.jpg)
+</div>
+ 1. При вводе расчетного счета покажется полная информация:
+   <div align="center">
+
+![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleEndProgramm.jpg)
+</div>
+ 4. При неверном счете, сообщение об ошибке
 
 
 
