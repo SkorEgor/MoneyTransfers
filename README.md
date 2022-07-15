@@ -70,7 +70,7 @@
 ![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg=250x)
 
 
-![test image size](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg){:height="100px" width="400px"}
+![test image size](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg){:height="50px"}
 
 <img
   src="https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg"
