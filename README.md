@@ -52,7 +52,9 @@
 «Расчетный счет плательщика» «Расчетный счет получателя» «Перечисляемая сумма в рублях»
 
 <div align="center">
+
 ![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg)
+
 </div>
 
 <!--
