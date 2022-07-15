@@ -53,7 +53,11 @@
 
 ![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg)
 
-<img src="https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg" width="50" height="50" />
+<div align="center">
+  <img src="https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg" width="100" />
+</div>
+
+
 
 ![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg | width=100)
 
