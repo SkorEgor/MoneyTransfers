@@ -11,25 +11,12 @@
 <details>
   <summary>Содержание</summary>
   <ol>
-    <li>
-      <a href="#О-проекте">О проекте</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#О-проекте">О проекте</a></li>
+    <li><a href="#Демонстрация">Демонстрация</a></li>
+    <li><a href="#Начиная">Начиная</a></li>
+    <li><a href="#Алгоритм">Алгоритм</a></li>
+    <li><a href="#Структура-проекта">Структура проекта</a></li>
+    <li><a href="#Ключевые-моменты">Ключевые моменты</a></li>
   </ol>
 </details>
 
@@ -86,7 +73,7 @@
 ![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/Algorithm.jpg)
 </div>
 
-## Структура  проекта
+## Структура проекта
 Проект разделен на 2 файла 
 
 •	.h – Содержит определение класса ORDER, его полей и методов<br />
