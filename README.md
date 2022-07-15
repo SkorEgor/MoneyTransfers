@@ -51,48 +51,17 @@
  a. Данные в формате:
 «Расчетный счет плательщика» «Расчетный счет получателя» «Перечисляемая сумма в рублях»
 
+<div align="center">
 ![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg)
+</div>
 
+<!--
+*** 
 <div align="center">
   <img src="https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg" width="100" />
 </div>
-
-
-
-![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg | width=100)
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
-![] (https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | ширина=100)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-
-![] (https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
-
-<a href="https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<img src="[relative/path/in/repository/to/image.svg](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg)" width="80"/>
-
-![](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg =250x)
-
-![](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg=250x)
-
-![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg)
-
-![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg =250x)
-
-![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg=250x)
-
-
-![test image size](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg){:height="50px"}
-
-<img
-  src="https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 550px">
+*** 
+-->
 
  b. После запуска программы, в консоли появятся прочтенные данные:
  c.	При вводе расчетного счета покажется полная информация:
