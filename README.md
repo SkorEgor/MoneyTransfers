@@ -62,9 +62,9 @@
 
 <img src="[relative/path/in/repository/to/image.svg](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg)" width="80"/>
 
-![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg=80x)
+![](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg =250x)
 
-![]([./pic/pic1s.png](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg =80x)
+![](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg=250x)
 
  b. После запуска программы, в консоли появятся прочтенные данные:
  c.	При вводе расчетного счета покажется полная информация:
