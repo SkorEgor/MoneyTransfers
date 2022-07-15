@@ -77,10 +77,11 @@
 </div>
 *** 
 -->
-##Алгоритм
+
+## Алгоритм
 <div align="center">
 
-![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleEndProgramm.jpg)
+![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/Algorithm.jpg)
 </div>
 
 
