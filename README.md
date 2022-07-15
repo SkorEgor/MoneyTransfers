@@ -53,6 +53,7 @@
 1.	Вместе с программой должен лежать файл “ ReadData.txt”
  a. Данные в формате:
 «Расчетный счет плательщика» «Расчетный счет получателя» «Перечисляемая сумма в рублях»
+![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg)
 <a href="https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
