@@ -53,6 +53,8 @@
 
 ![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg)
 
+<img src="https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg" width="50" height="50" />
+
 ![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg | width=100)
 
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
