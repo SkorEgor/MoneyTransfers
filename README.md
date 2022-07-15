@@ -53,6 +53,16 @@
 
 ![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg)
 
+![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg | width=100)
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
+![] (https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | ширина=100)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+
+![] (https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
+
 <a href="https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
