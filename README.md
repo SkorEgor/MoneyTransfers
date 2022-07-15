@@ -66,6 +66,13 @@
 
 ![](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg=250x)
 
+![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg)
+
+![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg =250x)
+
+![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleReadData.jpg=250x)
+
+
  b. После запуска программы, в консоли появятся прочтенные данные:
  c.	При вводе расчетного счета покажется полная информация:
  d.	При неверном счете, сообщение об ошибке:
