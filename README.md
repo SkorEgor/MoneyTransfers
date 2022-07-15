@@ -60,14 +60,14 @@
 
 ![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleStartProgramm.jpg)
 </div>
- 1. При вводе расчетного счета покажется полная информация:
-   <div align="center">
+
+3. При вводе расчетного счета покажется полная информация:
+<div align="center">
 
 ![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleEndProgramm.jpg)
 </div>
+
  4. При неверном счете, сообщение об ошибке
-
-
 
 
 <!--
@@ -77,7 +77,11 @@
 </div>
 *** 
 -->
+##Алгоритм
+<div align="center">
 
+![alt text](https://github.com/SkorEgor/MoneyTransfers/blob/master/ExampleEndProgramm.jpg)
+</div>
 
 
 Читает файл с д
