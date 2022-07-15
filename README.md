@@ -9,10 +9,10 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Содержание</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#О-проекте">О проекте</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
